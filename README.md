@@ -4,9 +4,13 @@ PEPSX Token is fully compatible with ERC20.
 
 # Token Specifications
 Token Name: PEPSX Token
+
 Token Ticker: PEPSX
+
 Total Supply: 74,000
+
 Decimals: 18
+
 
 Website: http://peps.today
 

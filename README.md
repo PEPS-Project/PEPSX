@@ -9,10 +9,11 @@ Token Ticker: PEPSX
 
 Total Supply: 74,000
 
-Tron Contract Address: TCmaZvH3ZdX1TLHuTrftf4hKzSXHiVMRnQ
+Contract Type: TRC20 / Tron
+
+Contract Address: TCmaZvH3ZdX1TLHuTrftf4hKzSXHiVMRnQ
 
 Decimals: 18
-
 
 Website: http://peps.today
 
